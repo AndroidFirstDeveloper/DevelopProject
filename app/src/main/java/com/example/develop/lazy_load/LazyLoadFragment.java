@@ -1,4 +1,4 @@
-package com.example.develop;
+package com.example.develop.lazy_load;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

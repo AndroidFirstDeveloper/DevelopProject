@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".LazyLoadActivity"/>
+        <activity android:name=".lazy_load.LazyLoadActivity"/>
     </application>
 
 </manifest>

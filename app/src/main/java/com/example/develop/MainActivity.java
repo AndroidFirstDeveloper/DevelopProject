@@ -34,7 +34,7 @@ public class MainActivity extends FragmentActivity {
 
     private List<ActivityModel> getDataList() {
         List<ActivityModel> list = new ArrayList<>();
-        list.add(new ActivityModel("懒加载", "LazyLoadActivity", "com.example.develop.LazyLoadActivity"));
+        list.add(new ActivityModel("懒加载", "LazyLoadActivity", "com.example.develop.lazy_load.LazyLoadActivity"));
         return list;
     }
 

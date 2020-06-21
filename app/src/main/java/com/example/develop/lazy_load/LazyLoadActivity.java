@@ -1,4 +1,4 @@
-package com.example.develop;
+package com.example.develop.lazy_load;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
+
+import com.example.develop.R;
 
 public class LazyLoadActivity extends FragmentActivity {
 

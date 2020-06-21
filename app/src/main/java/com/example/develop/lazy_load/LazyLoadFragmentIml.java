@@ -1,4 +1,4 @@
-package com.example.develop;
+package com.example.develop.lazy_load;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -6,6 +6,8 @@ import android.os.Message;
 import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
+
+import com.example.develop.R;
 
 import java.lang.ref.WeakReference;
 
